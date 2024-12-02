@@ -8,7 +8,7 @@ CP-SAT model (OR-tools), Python, Numpy and Pandas
 # Assignment 1 - Constraint Programming
 
 
-Task 1 - Develop a constraint satisfaction model that solves the following logical puzzle:
+Task 1 (task1.py) - Develop a constraint satisfaction model that solves the following logical puzzle:
 James, Daniel, Emily, and Sophie go out for dinner. They all order a starter, a main course, a desert, and drinks and they want to order as many different things as possible. 
 
 The carpaccio starter is not combined with the vegan pie as main course and the filet steak main course is not followed by ice cream as desert. (1) 
@@ -35,7 +35,7 @@ C. The puzzle also contains some implicit constraints. Define and implement thes
  
 D. Solve the CP-SAT model and determine the starter, main course, dessert, and drink ordered by each of the diners. 
 
-Task 2 - Sudoku 
+Task 2 (sudoku_task2.py) - Sudoku 
 
 Develop a constraint satisfaction model for solving a given Sudoku puzzle. The goal is to fill the remaining digits into grid so that no digit occurs twice in any of the rows, in any of the columns, or in any of the 3x3 sub-grids.
 
@@ -43,7 +43,7 @@ A. Identify and crate the decision variables for the Sudoku puzzle in a CP-SAT m
 B. Define and implement the constraints that no digit can occur twice in any of the rows or columns, or in any of the 3x3 sub-grids. 
 C. Solve the CP-SAT model and determine how many solutions can be found for the above instance. Output all these solutions.
 
-Task 3 - project planning
+Task 3 (project_planning_task3.py) - project planning
 
 
 Develop a constraint satisfaction problem model for deciding what projects can be taken on and what companies need to be contracted to deliver on these projects. Using the .xlsx file involving Projects, Quotes, Dependencies and Value sheets to extract and use the data. 
