@@ -1,5 +1,8 @@
 # Constraint-and-Linear-Programming-Project
-This is the Decision Analytics Module from the Masters in Artificial Intelligence Course involving concepts in Linear and Constraint Programming. Using the CP-SAT model and Python. 
+This is the Decision Analytics Module from the Masters in Artificial Intelligence Course involving concepts in Linear and Constraint Programming. 
+
+Technology and Tools:
+CP-SAT model (OR-tools), Python, Numpy and Pandas
 
 
 # Assignment 1 - Constraint Programming
