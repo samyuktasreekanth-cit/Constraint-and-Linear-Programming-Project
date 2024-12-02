@@ -1,11 +1,11 @@
-# Constraint-and-Linear-Programming-Project
+# Constraint-Programming-Project
 This is the Decision Analytics Module from the Masters in Artificial Intelligence Course involving concepts in Linear and Constraint Programming. 
 
 Technology and Tools:
 CP-SAT model (OR-tools), Python, Numpy and Pandas
 
 
-# Assignment 1 - Constraint Programming
+# Constraint Programming
 
 
 Task 1 (task1.py) - Develop a constraint satisfaction model that solves the following logical puzzle:
@@ -47,3 +47,8 @@ Task 3 (project_planning_task3.py) - project planning
 
 
 Develop a constraint satisfaction problem model for deciding what projects can be taken on and what companies need to be contracted to deliver on these projects. Using the .xlsx file involving Projects, Quotes, Dependencies and Value sheets to extract and use the data. 
+
+Dataset Excel : Assignment_DA_1_data.xlsx
+
+
+
